@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "query": "Admin",
+    "cached": true,
+    "empty": true
+  }
+]
