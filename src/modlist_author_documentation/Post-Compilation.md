@@ -38,7 +38,7 @@ Other modlists opt to host all of their information on a dedicated website:
 
 # Publishing as a quasi-collection on Nexusmods
 
-There is now the ability to publish your Wabbajack modlist as a special page on nexusmods, sitting alongside their Collections, that are intended for Vortex
+There is now the ability to publish your Wabbajack modlist as a special page on nexusmods, sitting alongside their Vortex Collections.
 detailed in this news post here : [https://www.nexusmods.com/news/15476](https://www.nexusmods.com/news/15476)
 
 What this means in effect is that a Wabbajack list can be showcased on Nexusmods website, in the same manner as Collections, and users can now click the "Add to Wabbajack" button on that web-page, and it will automatically open your modlist inside the Wabbajack client.
